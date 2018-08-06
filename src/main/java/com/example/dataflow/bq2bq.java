@@ -1,6 +1,6 @@
 
 
-package com.example.bq2bq;
+package com.example.dataflow;
 
 import java.util.Arrays;
 
@@ -19,7 +19,7 @@ import org.apache.beam.sdk.values.TypeDescriptors;
  * An example that counts words in Shakespeare.
  *
  */
-public class dataflow {
+public class bq2bq {
 
     public static void main(String[] args) {
 
